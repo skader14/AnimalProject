@@ -1,0 +1,1 @@
+This repo contains all the different files that had our attempts with different models and preprocessing approaches. The final model used is called finalModelLightGBM. Comments should be laid out throughout the files, as well as markdown headers for general summaries.
